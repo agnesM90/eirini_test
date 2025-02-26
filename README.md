@@ -10,3 +10,5 @@ Eirini participates in this workshop.
 Joana was here to change this line. 
 
 Eirini was here again.
+
+It is nice meeting you in  this course.
