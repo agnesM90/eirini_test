@@ -8,3 +8,5 @@ Here is a test repository for the workshop.
 Eirini participates in this workshop.
 
 Joana was here to change this line. 
+
+Eirini was here again.
